@@ -4,7 +4,7 @@
 
 ## Description
 
-An application called [Note Taker]() that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+An application called [Note Taker](https://jv-note-taker.herokuapp.com/) that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 The application will be invoked by using the following command: node server.js
 
@@ -40,6 +40,7 @@ Application preview:
 
 ![notetakertitle](https://user-images.githubusercontent.com/100246393/171795982-218d022b-a12a-4055-9261-afd57d4d81b6.png)
 
+[Live Application](https://jv-note-taker.herokuapp.com/)
 
 ## Credits
 
