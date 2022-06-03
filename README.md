@@ -36,6 +36,11 @@ Click the Save icon in the navigation bar in the top right of the screen.
 
 Application preview:
 
+![notetakerhome](https://user-images.githubusercontent.com/100246393/171795951-8a22570c-71b3-4465-bf04-a8a442d15525.png)
+
+![notetakertitle](https://user-images.githubusercontent.com/100246393/171795982-218d022b-a12a-4055-9261-afd57d4d81b6.png)
+
+
 ## Credits
 
 This project was created using [EXPRESS.JS](https://www.npmjs.com/package/express)
